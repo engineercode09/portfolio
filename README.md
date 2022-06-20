@@ -2,6 +2,6 @@ Hi everyone, I am Zamzamistimaqom. I am graduate from Petroleum Engineering who 
 
 I will represent my portfolio in this repository for result of Final Project from Bootcamp Class or from my portfolio with dataset which i get from kaggle or others.
 
-I public my portfolio pdf in my drive. You can acces [here](https://bit.ly/portfoli_zam)
+I public my portfolio pdf in my drive. You can acces [here](https://bit.ly/portfolio_zam)
 
 Thankyou for Visits, I hope you enjoy with my repository this.
